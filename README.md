@@ -6,7 +6,8 @@ Simple recursive filesystem notifier that writes to local or remote syslog serve
 Compiled version can be found in the bin directory. It was compiled on Debian Jesse, but will  
 probably work on any other distribution. This is a version specific for Docker containers  
 and will not work on older versions due to changes in the Docker filesystem layout.  
-It will try to detect your currently running containers and figure out the union mountpoints. 
+It should run on the Engine/Host and tt will try to detect your currently running containers   
+and figure out the union mountpoints. 
 It was tested with the AUFS driver only, when time permits I will try others.  
 Tested agains Docker version 17.03.1-ce, build c6d412e   
 It currently logs any notifications that are known to work  
