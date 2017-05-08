@@ -24,7 +24,7 @@ Configuration:
  - sysloghost: Syslog server to send log messages to  
  - syslogport: Syslog server port  
  - localonly: Log only to local syslog (no network) => true or false  
- - stdout: Also output to stout => true or false  
+ - stdout: Also output to stdout => true or false  
  - paths: An array of paths to watch, these should be directories within the containers 
 
 Usage:
