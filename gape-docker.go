@@ -55,7 +55,7 @@ func main(){
 
         // Create a syslog writer for logging local or remote
 	if configuration.Localonly{
-	        logger, err := syslog.New(syslog.LOG_NOTICE, "Gape")
+	        logger, err := syslog.New(syslog.LOG_NOTICE, "Gape-docker")
                 if err == nil {
                 	log.SetOutput(logger)
 		} else {

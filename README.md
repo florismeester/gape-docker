@@ -48,7 +48,6 @@ notify.Write: "/root/dockerdata/aufs/mnt/c55d2d99e6fe6f72902b0a1dc157b94f4fad064
 New container detected /root/dockerdata/aufs/mnt/58ed8175b58ecc7577744293788c7bf6a5813b6ce486920e4357405959925e73
 </pre>   
 
- Remember when an underlying watch has been removed, a restart of Gape is needed.  
  If you found any bugs or are using it to full hapiness drop me an <a href="mailto:floris.meester@gmail.com?Subject=GAPE" >email.</a>  
 
  Based on the excellent library from https://github.com/rjeczalik/notify  
