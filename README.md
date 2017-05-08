@@ -44,7 +44,7 @@ Usage:
  /root/dockerdata/aufs/mnt/65d283960f27d59243fc6f141e83b977e77219b4afb3dc1a28893fd04d173b38/tmp
  /root/dockerdata/aufs/mnt/c55d2d99e6fe6f72902b0a1dc157b94f4fad06425464e8122e279e96de6be820/etc
  /root/dockerdata/aufs/mnt/c55d2d99e6fe6f72902b0a1dc157b94f4fad06425464e8122e279e96de6be820/tmp
- New container detected /root/dockerdata/aufs/mnt/58ed8175b58ecc7577744293788c7bf6a5813b6ce486920e4357405959925e73-init
+ New container detected /root/dockerdata/aufs/mnt/58ed8175b58ecc7577744293788c7bf6a5813b6ce486920e4357405959925e73
  notify.Write: "/root/dockerdata/aufs/mnt/c55d2d99e6fe6f72902b0a1dc157b94f4fad06425464e8122e279e96de6be820/tmp/kafka-logs/replication-offset-checkpoint.tmp"
  New container detected /root/dockerdata/aufs/mnt/58ed8175b58ecc7577744293788c7bf6a5813b6ce486920e4357405959925e73
     
